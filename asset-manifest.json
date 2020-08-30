@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactjsproject/static/css/main.108a2926.chunk.css",
+    "main.js": "/reactjsproject/static/js/main.45e33d40.chunk.js",
+    "main.js.map": "/reactjsproject/static/js/main.45e33d40.chunk.js.map",
+    "runtime-main.js": "/reactjsproject/static/js/runtime-main.021cfe11.js",
+    "runtime-main.js.map": "/reactjsproject/static/js/runtime-main.021cfe11.js.map",
+    "static/css/2.864ae908.chunk.css": "/reactjsproject/static/css/2.864ae908.chunk.css",
+    "static/js/2.e21d0e75.chunk.js": "/reactjsproject/static/js/2.e21d0e75.chunk.js",
+    "static/js/2.e21d0e75.chunk.js.map": "/reactjsproject/static/js/2.e21d0e75.chunk.js.map",
+    "index.html": "/reactjsproject/index.html",
+    "precache-manifest.032ececd4e0869c0f1c8e531ef136589.js": "/reactjsproject/precache-manifest.032ececd4e0869c0f1c8e531ef136589.js",
+    "service-worker.js": "/reactjsproject/service-worker.js",
+    "static/css/2.864ae908.chunk.css.map": "/reactjsproject/static/css/2.864ae908.chunk.css.map",
+    "static/css/main.108a2926.chunk.css.map": "/reactjsproject/static/css/main.108a2926.chunk.css.map",
+    "static/js/2.e21d0e75.chunk.js.LICENSE.txt": "/reactjsproject/static/js/2.e21d0e75.chunk.js.LICENSE.txt",
+    "static/media/bbx2.jpg": "/reactjsproject/static/media/bbx2.40f4e00e.jpg",
+    "static/media/font-awesome.min.css": "/reactjsproject/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/myphoto.jpg": "/reactjsproject/static/media/myphoto.298c8065.jpg",
+    "static/media/natak.jpg": "/reactjsproject/static/media/natak.94ec10e7.jpg",
+    "static/media/project1.jpg": "/reactjsproject/static/media/project1.e525c961.jpg",
+    "static/media/resume.pdf": "/reactjsproject/static/media/resume.01c100e0.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.021cfe11.js",
+    "static/css/2.864ae908.chunk.css",
+    "static/js/2.e21d0e75.chunk.js",
+    "static/css/main.108a2926.chunk.css",
+    "static/js/main.45e33d40.chunk.js"
+  ]
+}
